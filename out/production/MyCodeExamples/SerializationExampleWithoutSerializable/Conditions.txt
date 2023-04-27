@@ -1,0 +1,15 @@
+Reading and writing to a file: UserPack
+
+Implement the logic for file IO for the UserPack class.
+The file your_file_name.tmp can contain several UserPack objects.
+
+
+Requirements:
+1.	The read/write logic in the save/load methods must work correctly when the users list is empty.
+2.	The read/write logic in the save/load methods must work correctly when the users list is not empty.
+3.	The Solution.UserPack class should not support the Serializable interface.
+4.	The Solution.UserPack class must be public.
+5.	The Solution.UserPack class should not support the Externalizable interface.
+
+
+
