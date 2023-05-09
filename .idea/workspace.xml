@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022f7c2b-6afd-4a93-8dd1-52ff6c200e2d" name="Changes" comment="First commit">
+    <list default="true" id="022f7c2b-6afd-4a93-8dd1-52ff6c200e2d" name="Changes" comment="pre-constructed commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,19 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="445ccf83-97c7-4f84-91f7-f488c65b8096" />
-        <option name="url" value="https://github.com/AntsipinDzmitry/InterestingMyCodeExamples.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,8 +55,6 @@
   </component>
   <component name="RunManager">
     <configuration name="SerializationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="19" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="SerializationExampleWithoutSerializable.SerializationExample" />
       <module name="MyCodeExamples" />
       <extension name="coverage">
@@ -77,11 +62,6 @@
           <option name="PATTERN" value="SerializationExampleWithoutSerializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
-      </extension>
-      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
-        <option name="credential" />
-        <option name="region" />
-        <option name="useCurrentConnection" value="false" />
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682590579835</updated>
       <workItem from="1682590581399" duration="5402000" />
-      <workItem from="1682606405048" duration="5880000" />
-      <workItem from="1683219158996" duration="30000" />
-      <workItem from="1683625576823" duration="334000" />
-      <workItem from="1683625949094" duration="476000" />
-      <workItem from="1683631178561" duration="146000" />
+      <workItem from="1682606405048" duration="5003000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1682609628408</created>
@@ -129,12 +105,12 @@
       <option name="project" value="LOCAL" />
       <updated>1682613015748</updated>
     </task>
-    <task id="LOCAL-00004" summary="First commit">
-      <created>1682613098418</created>
+    <task id="LOCAL-00004" summary="pre-constructed commit">
+      <created>1683632793844</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1682613098418</updated>
+      <updated>1683632793844</updated>
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
@@ -164,9 +140,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="pre-constructed commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="pre-constructed commit" />
   </component>
 </project>

@@ -1,0 +1,178 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"022f7c2b-6afd-4a93-8dd1-52ff6c200e2d\" name=\"Changes\" comment=\"First commit\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2P0OY1eqeEPM37F2mDj1E7J6lW4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showExcludedFiles\" value=\"false\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showScratchesAndConsoles\" value=\"false\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"aspect.path.notification.shown\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Zarak/IdeaProjects/MyCodeExamples\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Zarak\\IdeaProjects\\MyCodeExamples\\src\\BasePackage\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"SerializationExample\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"SerializationExampleWithoutSerializable.SerializationExample\" />\r\n      <module name=\"MyCodeExamples\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"SerializationExampleWithoutSerializable.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.SerializationExample\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"022f7c2b-6afd-4a93-8dd1-52ff6c200e2d\" name=\"Changes\" comment=\"\" />\r\n      <created>1682590579835</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1682590579835</updated>\r\n      <workItem from=\"1682590581399\" duration=\"5402000\" />\r\n      <workItem from=\"1682606405048\" duration=\"5003000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"First commit\">\r\n      <created>1682609628408</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682609628408</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"First commit\">\r\n      <created>1682609673109</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682609673109</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"First commit\">\r\n      <created>1682613015748</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682613015748</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"First commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b65b0347f1ffa1e2cb182ffa91cff385598a874a)
++++ b/.idea/workspace.xml	(date 1683632335575)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="022f7c2b-6afd-4a93-8dd1-52ff6c200e2d" name="Changes" comment="First commit" />
++    <list default="true" id="022f7c2b-6afd-4a93-8dd1-52ff6c200e2d" name="Changes" comment="punctuation commit">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Tasks/SerializationExampleWithoutSerializable/SerializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/SerializationExampleWithoutSerializable/SerializationExample.java" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -19,6 +22,20 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="MIXED" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="445ccf83-97c7-4f84-91f7-f488c65b8096" />
++        <option name="url" value="https://github.com/AntsipinDzmitry/InterestingMyCodeExamples.git" />
++      </UrlAndAccount>
++    </option>
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -43,6 +60,10 @@
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "project.structure.last.edited": "SDKs",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.42068964",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -51,8 +72,22 @@
+       <recent name="C:\Users\Zarak\IdeaProjects\MyCodeExamples\src\BasePackage" />
+     </key>
+   </component>
+-  <component name="RunManager">
++  <component name="RunManager" selected="Application.SerializationExample">
++    <configuration name="SerializationExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="SerializationExampleWithoutSerializable.SerializationExample" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="SerializationExampleWithoutSerializable.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="SerializationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="ALTERNATIVE_JRE_PATH" value="19" />
++      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+       <option name="MAIN_CLASS_NAME" value="SerializationExampleWithoutSerializable.SerializationExample" />
+       <module name="MyCodeExamples" />
+       <extension name="coverage">
+@@ -60,13 +95,23 @@
+           <option name="PATTERN" value="SerializationExampleWithoutSerializable.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
++      </extension>
++      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
++        <option name="credential" />
++        <option name="region" />
++        <option name="useCurrentConnection" value="false" />
+       </extension>
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <list>
++      <item itemvalue="Application.SerializationExample (1)" />
++      <item itemvalue="Application.SerializationExample" />
++    </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.SerializationExample (1)" />
+         <item itemvalue="Application.SerializationExample" />
+       </list>
+     </recent_temporary>
+@@ -80,7 +125,11 @@
+       <option name="presentableId" value="Default" />
+       <updated>1682590579835</updated>
+       <workItem from="1682590581399" duration="5402000" />
+-      <workItem from="1682606405048" duration="5003000" />
++      <workItem from="1682606405048" duration="5880000" />
++      <workItem from="1683219158996" duration="30000" />
++      <workItem from="1683625576823" duration="334000" />
++      <workItem from="1683625949094" duration="476000" />
++      <workItem from="1683631178561" duration="1152000" />
+     </task>
+     <task id="LOCAL-00001" summary="First commit">
+       <created>1682609628408</created>
+@@ -103,14 +152,40 @@
+       <option name="project" value="LOCAL" />
+       <updated>1682613015748</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="First commit">
++      <created>1682613098418</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1682613098418</updated>
++    </task>
++    <task id="LOCAL-00005" summary="punctuation commit">
++      <created>1683631578321</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1683631578321</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="First commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
++    <MESSAGE value="punctuation commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="punctuation commit" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: Tasks/SerializationExampleWithoutSerializable/SerializationExample.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SerializationExampleWithoutSerializable;\r\nimport java.io.*;\r\nimport java.util.*;\r\n\r\n/*\r\nReading and writing to a file: do-it-yourself serialization without the help of serializeable!\r\n\r\n*/\r\n\r\npublic class SerializationExample {\r\n    public static void main(String[] args) {\r\n        try {\r\n            File yourFile = File.createTempFile(\"my_file_name\", null);\r\n            OutputStream outputStream = new FileOutputStream(yourFile);\r\n            InputStream inputStream = new FileInputStream(yourFile);\r\n\r\n            UserPack userPack = new UserPack();\r\n            // we Initialize the users field for the userPack object by creating\r\n            // and adding two user objects here to test the functionality\r\n            User user1 = new User();\r\n            user1.setFirstName(\"Dima\");\r\n            user1.setLastName(\"Antipin\");\r\n            user1.setCountry(User.Country.UNITED_STATES);\r\n            user1.setBirthDate(new GregorianCalendar(1988, Calendar.JUNE, 9).getTime());\r\n            user1.setMale(true);\r\n\r\n            User user2 = new User();\r\n            user2.setFirstName(\"Hanna\");\r\n            user2.setLastName(\"Antipina\");\r\n            user2.setCountry(User.Country.UNITED_KINGDOM);\r\n            user2.setBirthDate(new GregorianCalendar(1988, Calendar.OCTOBER, 16).getTime());\r\n            user2.setMale(false);\r\n\r\n            userPack.users.add(user1);\r\n            userPack.users.add(user2);\r\n            userPack.save(outputStream);\r\n            outputStream.flush();\r\n\r\n            UserPack loadedObject = new UserPack();\r\n            loadedObject.load(inputStream);\r\n\r\n            // Here check that the userPack object is equal to the loadedObject object\r\n            System.out.println(userPack.equals(loadedObject));\r\n\r\n            outputStream.close();\r\n            inputStream.close();\r\n\r\n        } catch (IOException e) {\r\n            //e.printStackTrace();\r\n            System.out.println(\"Oops, something wrong with my file\");\r\n        } catch (Exception e) {\r\n            //e.printStackTrace();\r\n            System.out.println(\"Oops, something wrong with save/load method\");\r\n        }\r\n    }\r\n\r\n    public static class UserPack {\r\n        public List<User> users = new ArrayList<>();\r\n\r\n        public void save(OutputStream outputStream) throws Exception {\r\n\r\n            /* the method checks whether the list of users is empty or not, and if it is not empty,\r\n             then writes information about users to the file. I implement the method by creating a stringbuilder object\r\n             for the convenience of writing strings, dates and nested enums, as well as boolean values.\r\n             This allows me to achieve code readability and reduce code redundancy. */\r\n            try (BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(outputStream))) {\r\n                if (!this.users.isEmpty()) {\r\n                    for (User currentUser : this.users) {\r\n                        StringBuilder sb = new StringBuilder();\r\n                        sb.append(currentUser.getFirstName());\r\n                        sb.append(\"/\");\r\n                        sb.append(currentUser.getLastName());\r\n                        sb.append(\"/\");\r\n                        sb.append(currentUser.getBirthDate().getTime());\r\n                        sb.append(\"/\");\r\n                        sb.append(currentUser.isMale());\r\n                        sb.append(\"/\");\r\n                        sb.append(currentUser.getCountry());\r\n\r\n                        writer.write(sb.toString());\r\n                        writer.newLine();\r\n                    }\r\n                }\r\n            }\r\n        }\r\n        public void load(InputStream inputStream) throws Exception {\r\n            // Implement this method\r\n            try(BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream))) {\r\n                while (reader.ready()) {\r\n                    User user = new User();\r\n                    String[] tempArray = reader.readLine().split(\"/\");\r\n                    if (tempArray.length < 5) {\r\n                        break;\r\n                    }\r\n                    user.setFirstName(tempArray[0]);\r\n                    user.setLastName(tempArray[1]);\r\n                    user.setBirthDate(new Date(Long.parseLong(tempArray[2])));\r\n                    user.setMale(Boolean.parseBoolean(tempArray[3]));\r\n                    switch (tempArray[4]) {\r\n                        case \"UNITED_STATES\":\r\n                            user.setCountry(User.Country.UNITED_STATES);\r\n                            break;\r\n                        case \"UNITED_KINGDOM\":\r\n                            user.setCountry(User.Country.UNITED_KINGDOM);\r\n                            break;\r\n                        default:\r\n                            user.setCountry(User.Country.OTHER);\r\n                            break;\r\n                    }\r\n                    this.users.add(user);\r\n                }\r\n            }\r\n        }\r\n\r\n        @Override\r\n        public boolean equals(Object o) {\r\n            if (this == o) return true;\r\n            if (o == null || getClass() != o.getClass()) return false;\r\n\r\n            UserPack userPack = (UserPack) o;\r\n\r\n            return users != null ? users.equals(userPack.users) : userPack.users == null;\r\n\r\n        }\r\n\r\n        @Override\r\n        public int hashCode() {\r\n            return users != null ? users.hashCode() : 0;\r\n        }\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tasks/SerializationExampleWithoutSerializable/SerializationExample.java b/Tasks/SerializationExampleWithoutSerializable/SerializationExample.java
+--- a/Tasks/SerializationExampleWithoutSerializable/SerializationExample.java	(revision b695bf0cce23ff89e53f348ab90cc64def2e411b)
++++ b/Tasks/SerializationExampleWithoutSerializable/SerializationExample.java	(date 1683631526665)
+@@ -3,7 +3,7 @@
+ import java.util.*;
+ 
+ /*
+-Reading and writing to a file: do-it-yourself serialization without the help of serializeable!
++Reading and writing to a file: do-it-yourself serialization without the help of serializeable!!
+ 
+ */
+ 
