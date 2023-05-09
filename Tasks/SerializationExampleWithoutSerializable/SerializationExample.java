@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 
 /*
-Reading and writing to a file: do-it-yourself serialization without the help of serializeable!
+Reading and writing to a file: do-it-yourself serialization without the help of serializeable!!
 
 */
 
